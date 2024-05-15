@@ -1,1 +1,1 @@
-щрн днкфмн ашрэ б MAIN
+NEW IN MAIN
