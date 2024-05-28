@@ -1,1 +1,1 @@
-BRANCH2
+# Шаблон настройки GitHub Actions
