@@ -1,2 +1,1 @@
-MAIN DONE
-20240516changed
+# Шаблон настройки GitHub Actions
